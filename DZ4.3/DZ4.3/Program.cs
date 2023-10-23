@@ -42,9 +42,16 @@ while (isContinue)
                     currElement = arrayElement;
                 }
             }
+            if (dupCount > 1)
+            {
+                dupFlag = true;
+                Console.WriteLine($"Повторяющийся элемент: {currElement}, количество повторений: {dupCount}");
+                isContinue = false;
+            }
             if (dupFlag == false)
             {
                 Console.WriteLine($"Массив состоит из уникальных элементов");
+                isContinue = false;
             }
         }
         else
