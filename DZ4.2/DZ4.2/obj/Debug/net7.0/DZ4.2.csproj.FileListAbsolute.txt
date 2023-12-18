@@ -12,3 +12,17 @@ D:\Dot\DZ4.2\DZ4.2\obj\Debug\net7.0\refint\DZ4.2.dll
 D:\Dot\DZ4.2\DZ4.2\obj\Debug\net7.0\DZ4.2.pdb
 D:\Dot\DZ4.2\DZ4.2\obj\Debug\net7.0\DZ4.2.genruntimeconfig.cache
 D:\Dot\DZ4.2\DZ4.2\obj\Debug\net7.0\ref\DZ4.2.dll
+D:\Dot\DZ4\DZ4.2\DZ4.2\bin\Debug\net7.0\DZ4.2.exe
+D:\Dot\DZ4\DZ4.2\DZ4.2\bin\Debug\net7.0\DZ4.2.deps.json
+D:\Dot\DZ4\DZ4.2\DZ4.2\bin\Debug\net7.0\DZ4.2.runtimeconfig.json
+D:\Dot\DZ4\DZ4.2\DZ4.2\bin\Debug\net7.0\DZ4.2.dll
+D:\Dot\DZ4\DZ4.2\DZ4.2\bin\Debug\net7.0\DZ4.2.pdb
+D:\Dot\DZ4\DZ4.2\DZ4.2\obj\Debug\net7.0\DZ4.2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dot\DZ4\DZ4.2\DZ4.2\obj\Debug\net7.0\DZ4.2.AssemblyInfoInputs.cache
+D:\Dot\DZ4\DZ4.2\DZ4.2\obj\Debug\net7.0\DZ4.2.AssemblyInfo.cs
+D:\Dot\DZ4\DZ4.2\DZ4.2\obj\Debug\net7.0\DZ4.2.csproj.CoreCompileInputs.cache
+D:\Dot\DZ4\DZ4.2\DZ4.2\obj\Debug\net7.0\DZ4.2.dll
+D:\Dot\DZ4\DZ4.2\DZ4.2\obj\Debug\net7.0\refint\DZ4.2.dll
+D:\Dot\DZ4\DZ4.2\DZ4.2\obj\Debug\net7.0\DZ4.2.pdb
+D:\Dot\DZ4\DZ4.2\DZ4.2\obj\Debug\net7.0\DZ4.2.genruntimeconfig.cache
+D:\Dot\DZ4\DZ4.2\DZ4.2\obj\Debug\net7.0\ref\DZ4.2.dll

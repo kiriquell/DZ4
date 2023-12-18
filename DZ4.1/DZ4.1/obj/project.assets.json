@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Dot\\DZ4.1\\DZ4.1\\DZ4.1.csproj",
+      "projectUniqueName": "D:\\Dot\\DZ4\\DZ4.1\\DZ4.1\\DZ4.1.csproj",
       "projectName": "DZ4.1",
-      "projectPath": "D:\\Dot\\DZ4.1\\DZ4.1\\DZ4.1.csproj",
+      "projectPath": "D:\\Dot\\DZ4\\DZ4.1\\DZ4.1\\DZ4.1.csproj",
       "packagesPath": "C:\\Users\\Kirya\\.nuget\\packages\\",
-      "outputPath": "D:\\Dot\\DZ4.1\\DZ4.1\\obj\\",
+      "outputPath": "D:\\Dot\\DZ4\\DZ4.1\\DZ4.1\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Kirya\\AppData\\Roaming\\NuGet\\NuGet.Config",

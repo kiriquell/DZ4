@@ -22,7 +22,7 @@ while (isContinue)
                     i--;
                 }
             }
-            int maxItem = 0;
+            int maxItem = numbers[0];
             int minItem = numbers[0];
             for (int i = 0; i < numbers.Length; i++)
             {
